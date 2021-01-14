@@ -13,4 +13,3 @@ I'm Adam, Information Technology Student at Silesian University in Poland. Huge 
 ## 💬 Contact
 - 🐦 [Twitter](https://twitter.com/Talar1997_)
 - 📚 [LinkedIn](https://www.linkedin.com/in/adam-talarczyk-699796143/)
-- ⚙️ [Portfolio](https://talar.tech)
