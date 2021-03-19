@@ -10,7 +10,5 @@ I'm Adam, Information Technology graduate at Silesian University in Poland (Facu
 - Databases used in my projects **MySQL**, **MongoDB**
 - Testing software with **Mocha and Chai**, **Cypress**, **Postman**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talar1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💬 Contact
 - 📚 [LinkedIn](https://www.linkedin.com/in/adam-talarczyk-699796143/)
